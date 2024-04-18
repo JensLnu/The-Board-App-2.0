@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 1.5rem;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  font-family: "Roboto, sans-serif";
+  -webkit-font-smoothing: antialiased;
+  -moz-oxs-font-smoothing: grayscale;
+}
+
+#root {
+  height: 100vh;
+  width: 100%;
+  max-width: 1400px;
+  background-image: url("./assets/background-img.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

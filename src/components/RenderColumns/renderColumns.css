@@ -1,0 +1,7 @@
+.main-content {
+    height: 90%;
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    gap: 0.3rem;
+}
